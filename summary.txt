@@ -1,0 +1,35 @@
+After long time(8 months ) I revised the python .
+
+IN python : I Revised 
+    1. Varialbe 
+    2. Token 
+    3. Keywords 
+    4. Whitespace
+    5. Litrates
+    6. Identifiers
+    7. Operators (Arithmatic , logical , comparisonal, Bitwise (little bit ), identity , membership.)
+    8. Basic functions 
+    9. Basic Conditional statement .
+    10. Basic loops 
+
+New Things I Learned : 
+    1. How to create virtual Environment for code . (python3 -m venv venv )
+    2. .env file (for stroing the passwords and basic data )   [Created normally ]
+    3. Creating git ignore files -- adding files to it         [Created normally ]
+                                            |
+                                            |- venv/
+                                            |- .env
+                                            |- __pycache__/
+                                            |- *pyc/
+
+    4. __pycache__ : file created by python interpreter automatically a/c to devices may varies 
+                        in each devices so no necessay to add into the github 
+    
+    5. *pyc : python complied code - contains byte code (fast execution code) created by python 
+
+
+Project Created [WITHOUT USE OF AI ]: 
+    I created simple project all alone myself without using the ai (I took hints when i get stuck for long time but all the code logic written by me . )
+
+Usecase [USING AI ]
+    Going to create the webpage using the ai in which my main project file i created will be used for the backend logic because this helps we used to AI in my projects with actual practical learning and helps me to build he projects while Learning . 
