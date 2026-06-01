@@ -1,0 +1,24 @@
+This sting list folder contains the revision and basic practice 
+related to the list and string
+
+First I revised the strings and list concepts 
+then i created the simple project named simpr2.py
+without using the ai . I coded myself every line of code 
+
+simpro2.py=============
+            |-- It contains  simple grading system of students 
+            |-- in this students can enter their name and marks 
+            |-- a/c to their marks grades is generated .
+            |-- all the data is stored in Lists which is much 
+            |-- efficient then storing data inside variables .
+            |
+            |
+            |-- I TRIED MY BEST [I AM LEARNING]
+
+
+but doesn't mean i didn't use ai in whole project -- 
+I used AI whenever I am stuck I uses the ai and asks hints 
+instead of asking the complete solution 
+
+Thing to be noted that is I use AI only when its too long to 
+stuck at one place . 
