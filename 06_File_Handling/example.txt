@@ -1,0 +1,2 @@
+Hi this is sample file created for Learning and understanding file hanlding .
+this is line 2 basically i am writing anything 
